@@ -1,5 +1,5 @@
 # OS-First-Dorset-1
 
-Educational use Only. Not for Commercial, Planning or Navigational use.
+Educational Use Only. Not for Commercial, Planning or Navigational Use.
 
 Demo: https://geoffrowland.github.io/OS-First-Dorset-1/
